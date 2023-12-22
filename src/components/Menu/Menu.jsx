@@ -1,9 +1,9 @@
 import React from 'react'
-import Syles from './menu.module.css'
+import styles from './menu.module.css'
 
 function Menu() {
   return (
-    <div className={Syles.container}>Menu</div>
+    <div className={styles.container}>Menu</div>
   )
 }
 
