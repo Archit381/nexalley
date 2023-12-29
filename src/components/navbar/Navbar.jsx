@@ -33,7 +33,7 @@ function Navbar() {
         <Link href="/" className={styles.link}>
           About
         </Link>
-        <AuthLinks />
+        {/* <AuthLinks /> */}
       </div>
     </div>
   );

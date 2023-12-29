@@ -1,11 +1,8 @@
-import Footer from "@/components/footer/footer";
-import Navbar from "@/components/navbar/Navbar";
-import Image from "next/image";
-import styles from './homepage.module.css'
-import Featured from "@/components/featured/Featured";
-import CategoryList from "@/components/categoryList/CategoryList";
-import CardList from "@/components/cardList/CardList";
 import Menu from "@/components/Menu/Menu";
+import CardList from "@/components/cardList/CardList";
+import CategoryList from "@/components/categoryList/CategoryList";
+import Featured from "@/components/featured/Featured";
+import styles from './homepage.module.css';
 
 export default function Home() {
   return (
